@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C94E4D4D</color>
+    <color name="colorPrimaryDark">#C94E4D4D</color>
+    <color name="colorAccent">#C94E4D4D</color>
+
+
+    <color name="btnSignUp">#0CAC89</color>
+    <color name="btnSignActive">#A9d440</color>
+
+    <color name="overlayBackground">#7F333639</color>
+    <color name="overlaYActionBar">#0e0d0e</color>
+    <color name="rating_backround">#4E504F</color>
+    <color name="rating_hint_text">#BABDBB</color>
+    <color name="gray">#C1C2C1</color>
+    <color name="flting_btn_color">#BA3A3539</color>
+    <color name="red">#FF1100</color>
+
+</resources>

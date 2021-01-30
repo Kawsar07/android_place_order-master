@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PlaceOrder</string>
+    <string name="slogan">We opened our first store on Dagelijkse Groenmarkt in 2010 with the belief that tasty and healthy food does not have to be expensive. Since then, we have opened two more stores.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bipul sarkar</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_of_food">Name of Food</string>
+    <string name="todo">TODO</string>
+    <string name="forgot_pwd"><u>Forgot Password?</u></string>
+    <string name="dialog_text">Please fill all information</string>
+
+
+</resources>
